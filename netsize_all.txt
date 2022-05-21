@@ -1,0 +1,295 @@
+n1.txt
+Numero de Columnas
+80
+Numero de Filas
+97
+n2.txt
+Numero de Columnas
+41
+Numero de Filas
+62
+n3.txt
+Numero de Columnas
+36
+Numero de Filas
+25
+n4.txt
+Numero de Columnas
+11
+Numero de Filas
+101
+n5.txt
+Numero de Columnas
+7
+Numero de Filas
+21
+n6.txt
+Numero de Columnas
+31
+Numero de Filas
+9
+n7.txt
+Numero de Columnas
+25
+Numero de Filas
+16
+n8.txt
+Numero de Columnas
+33
+Numero de Filas
+19
+n9.txt
+Numero de Columnas
+22
+Numero de Filas
+12
+n10.txt
+Numero de Columnas
+20
+Numero de Filas
+14
+n11.txt
+Numero de Columnas
+91
+Numero de Filas
+270
+n12.txt
+Numero de Columnas
+72
+Numero de Filas
+7
+n13.txt
+Numero de Columnas
+17
+Numero de Filas
+61
+n14.txt
+Numero de Columnas
+15
+Numero de Filas
+35
+n15.txt
+Numero de Columnas
+11
+Numero de Filas
+38
+n16.txt
+Numero de Columnas
+24
+Numero de Filas
+118
+n17.txt
+Numero de Columnas
+31
+Numero de Filas
+76
+n18.txt
+Numero de Columnas
+14
+Numero de Filas
+13
+n19.txt
+Numero de Columnas
+16
+Numero de Filas
+10
+n20.txt
+Numero de Columnas
+7
+Numero de Filas
+18
+n21.txt
+Numero de Columnas
+45
+Numero de Filas
+19
+n22.txt
+Numero de Columnas
+36
+Numero de Filas
+19
+n23.txt
+Numero de Columnas
+26
+Numero de Filas
+179
+n24.txt
+Numero de Columnas
+28
+Numero de Filas
+80
+n25.txt
+Numero de Columnas
+16
+Numero de Filas
+17
+n26.txt
+Numero de Columnas
+40
+Numero de Filas
+82
+n27.txt
+Numero de Columnas
+5
+Numero de Filas
+27
+n28.txt
+Numero de Columnas
+19
+Numero de Filas
+90
+n29.txt
+Numero de Columnas
+25
+Numero de Filas
+61
+n30.txt
+Numero de Columnas
+19
+Numero de Filas
+8
+n31.txt
+Numero de Columnas
+25
+Numero de Filas
+28
+n32.txt
+Numero de Columnas
+21
+Numero de Filas
+45
+n33.txt
+Numero de Columnas
+20
+Numero de Filas
+70
+n34.txt
+Numero de Columnas
+25
+Numero de Filas
+79
+n35.txt
+Numero de Columnas
+8
+Numero de Filas
+14
+n36.txt
+Numero de Columnas
+169
+Numero de Filas
+40
+n37.txt
+Numero de Columnas
+13
+Numero de Filas
+44
+n38.txt
+Numero de Columnas
+99
+Numero de Filas
+51
+n39.txt
+Numero de Columnas
+25
+Numero de Filas
+33
+n40.txt
+Numero de Columnas
+18
+Numero de Filas
+28
+n41.txt
+Numero de Columnas
+10
+Numero de Filas
+12
+n42.txt
+Numero de Columnas
+8
+Numero de Filas
+42
+n43.txt
+Numero de Columnas
+29
+Numero de Filas
+55
+n44.txt
+Numero de Columnas
+9
+Numero de Filas
+56
+n45.txt
+Numero de Columnas
+61
+Numero de Filas
+36
+n46.txt
+Numero de Columnas
+17
+Numero de Filas
+58
+n47.txt
+Numero de Columnas
+41
+Numero de Filas
+139
+n48.txt
+Numero de Columnas
+49
+Numero de Filas
+118
+n49.txt
+Numero de Columnas
+23
+Numero de Filas
+47
+n50.txt
+Numero de Columnas
+46
+Numero de Filas
+45
+n51.txt
+Numero de Columnas
+15
+Numero de Filas
+8
+n52.txt
+Numero de Columnas
+7
+Numero de Filas
+33
+n53.txt
+Numero de Columnas
+13
+Numero de Filas
+34
+n54.txt
+Numero de Columnas
+25
+Numero de Filas
+126
+n55.txt
+Numero de Columnas
+50
+Numero de Filas
+14
+n56.txt
+Numero de Columnas
+207
+Numero de Filas
+110
+n57.txt
+Numero de Columnas
+11
+Numero de Filas
+14
+n58.txt
+Numero de Columnas
+90
+Numero de Filas
+678
+n59.txt
+Numero de Columnas
+130
+Numero de Filas
+663
