@@ -1,3 +1,4 @@
+#codigo para enumerar filas y columnas con variable incluida
 #Columnas
 echo "Numero de Columnas" 
 head -n1 n$1.txt | grep -o " " | wc -l 
